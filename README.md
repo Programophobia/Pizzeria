@@ -1,1 +1,1 @@
-https://avid-join-production.up.railway.app/#/main
+https://anna-powaska-pizzeria.up.railway.app/
